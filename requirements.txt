@@ -1,6 +1,4 @@
-streamlit_javascript
-streamlit.components.v1
-gtts
-base64
-os
-PIL
+streamlit
+Pillow
+gTTS
+openai
