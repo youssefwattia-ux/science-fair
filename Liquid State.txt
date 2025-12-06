@@ -1,0 +1,17 @@
+Liquids have particles that stay close together but can slide past each other, giving them a fixed volume but no fixed shape. They flow, adapt, and take the shape of their container.
+
+Key Properties:
+
+ - No fixed shape
+
+ - Fixed volume
+
+ - High flowability
+
+ - Almost incompressible compared to solids
+
+Moral Lesson:
+
+ - Be flexible and flow around obstacles like a liquid!
+
+ - Adapt, but stay true to your volume!
